@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pacse
 - 👀 I’m interested in gaming, coding, minecraft mods
-- 🌱 I’m currently learning c, scratch, python
+- 🌱 I’m currently learning python, HTML, Java, and CSS
 
 
 <!---
