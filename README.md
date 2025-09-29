@@ -3,7 +3,12 @@
 🌱 I’m currently working on a CLI app in Python that's more or less a port of scp-wiki.wikidot.com aiming to be entirely in-universe
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pacse)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://pacse.pythonanywhere.com/link">
+  <img
+    src="https://pacse.pythonanywhere.com?theme=dark&eq_color=rainbow"
+    alt="Current Spotify Song"
+  />
+</a>
 <!---
 pacse/pacse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
