@@ -1,3 +1,5 @@
+<!-- Credit to https://github.com/tthn0/tthn0 for README idea -->
+
 Hi, I’m pacse :)
 
 I’m interested in gaming, programing, AI and Machine Learning, writing
