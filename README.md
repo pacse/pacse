@@ -7,7 +7,7 @@ I’m currently working on a CLI app in Python that's more or less a port of scp
 
 My GitHub stats
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pacse&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=pacse&theme=transparent&card_width=495)](https://github.com/anuraghazra/github-readme-stats)
 
 My Vibez 🎵
 
